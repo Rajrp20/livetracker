@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/livetracker/static/css/main.afc15091.css",
+    "main.js": "/livetracker/static/js/main.8e5cd1d3.js",
+    "static/js/787.48ccaa81.chunk.js": "/livetracker/static/js/787.48ccaa81.chunk.js",
+    "index.html": "/livetracker/index.html",
+    "main.afc15091.css.map": "/livetracker/static/css/main.afc15091.css.map",
+    "main.8e5cd1d3.js.map": "/livetracker/static/js/main.8e5cd1d3.js.map",
+    "787.48ccaa81.chunk.js.map": "/livetracker/static/js/787.48ccaa81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afc15091.css",
+    "static/js/main.8e5cd1d3.js"
+  ]
+}
